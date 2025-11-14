@@ -1,0 +1,10 @@
+------------ TICKET INVOICE ------------
+Username: user1
+Theatre: Amrutha Talkies
+Movie: OG-The Power Star
+Tickets: 35
+Price per ticket: ₹250
+Total: ₹8750
+Booking Date and Time: 2025-11-05 22:09:29
+----------------------------------------
+Thank you for booking with us!

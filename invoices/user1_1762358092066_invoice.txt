@@ -1,0 +1,10 @@
+------------ TICKET INVOICE ------------
+Username: user1
+Theatre: Amrutha Talkies
+Movie: Mirai
+Tickets: 45
+Price per ticket: ₹220
+Total: ₹9900
+Booking Date and Time: 2025-11-05 21:24:52
+----------------------------------------
+Thank you for booking with us!

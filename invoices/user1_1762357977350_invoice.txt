@@ -1,0 +1,8 @@
+------------ TICKET INVOICE ------------
+Username: user1
+Theatre: Amrutha Talkies
+Movie: Krish4
+Quantity: 45
+Booking Date and Time: 2025-11-05 21:22:57
+----------------------------------------
+Thank you for booking with us!

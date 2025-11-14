@@ -1,0 +1,9 @@
+========== MOVIE TICKET INVOICE ==========
+Username : user1
+Theatre  : Amrutha Talkies
+Movie    : Little Hearts
+Tickets  : 25
+Total    : ₹5000.0
+Date/Time: 29-10-2025 11:10:56
+==========================================
+Thank you for booking with us!

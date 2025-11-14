@@ -1,0 +1,8 @@
+------------ TICKET INVOICE ------------
+Username: user1
+Theatre: Venkatrama Kalamandir
+Movie: OG-The Power Star
+Quantity: 20
+Booking Date and Time: 2025-10-29 11:19:14
+----------------------------------------
+Thank you for booking with us!

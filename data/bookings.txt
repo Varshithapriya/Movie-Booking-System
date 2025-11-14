@@ -1,0 +1,12 @@
+user1,Ashoka Theatre,Little Hearts,45,2025-10-28 22:58:11
+user2,Venkatrama Kalamandir,Little Hearts,56,2025-10-28 23:13:59
+user1,Amrutha Talkies,Little Hearts,25,2025-10-29 08:56:06
+user1,Amrutha Talkies,Krish4,25,2025-10-29 08:59:46
+user2,Amrutha Talkies,Little Hearts,50,2025-10-29 09:01:33
+user1,Venkatrama Kalamandir,OG-The Power Star,20,2025-10-29 11:19:14
+user1,Amrutha Talkies,Krish4,45,2025-11-05 21:22:57
+user2,S2 CinemaHall,Little Hearts,35,2025-11-05 21:23:25
+user1,Ashoka Theatre,OG-The Power Star,80,2025-11-05 21:23:52
+user1,Amrutha Talkies,Mirai,45,2025-11-05 21:24:52
+user1,Amrutha Talkies,OG-The Power Star,35,2025-11-05 22:09:29
+user1,Ashoka Theatre,Little Hearts,12,2025-11-05 22:14:07

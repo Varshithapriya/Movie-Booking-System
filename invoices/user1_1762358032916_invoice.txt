@@ -1,0 +1,8 @@
+------------ TICKET INVOICE ------------
+Username: user1
+Theatre: Ashoka Theatre
+Movie: OG-The Power Star
+Quantity: 80
+Booking Date and Time: 2025-11-05 21:23:52
+----------------------------------------
+Thank you for booking with us!

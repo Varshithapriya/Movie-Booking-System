@@ -1,0 +1,10 @@
+------------ TICKET INVOICE ------------
+Username: user1
+Theatre: Amrutha Talkies
+Movie: Krish4
+Tickets: 25
+Price per ticket: ₹400
+Total: ₹10000
+Booking Date and Time: 2025-10-29 08:59:46
+----------------------------------------
+Thank you for booking with us!

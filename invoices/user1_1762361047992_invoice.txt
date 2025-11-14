@@ -1,0 +1,10 @@
+------------ TICKET INVOICE ------------
+Username: user1
+Theatre: Ashoka Theatre
+Movie: Little Hearts
+Tickets: 12
+Price per ticket: ₹200
+Total: ₹2400
+Booking Date and Time: 2025-11-05 22:14:07
+----------------------------------------
+Thank you for booking with us!

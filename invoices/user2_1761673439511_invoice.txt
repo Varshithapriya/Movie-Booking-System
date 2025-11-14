@@ -1,0 +1,8 @@
+------------ TICKET INVOICE ------------
+Username: user2
+Theatre: Venkatrama Kalamandir
+Movie: Little Hearts
+Quantity: 56
+Booking Date and Time: 2025-10-28 23:13:59
+----------------------------------------
+Thank you for booking with us!

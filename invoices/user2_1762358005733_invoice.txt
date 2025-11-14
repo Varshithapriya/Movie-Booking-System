@@ -1,0 +1,8 @@
+------------ TICKET INVOICE ------------
+Username: user2
+Theatre: S2 CinemaHall
+Movie: Little Hearts
+Quantity: 35
+Booking Date and Time: 2025-11-05 21:23:25
+----------------------------------------
+Thank you for booking with us!
